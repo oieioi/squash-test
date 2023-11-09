@@ -1,5 +1,6 @@
 # squash-test
 updated in feature/2
+update in main
 test
 
 
