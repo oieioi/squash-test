@@ -1,0 +1,2 @@
+# squash-test
+test
